@@ -15,4 +15,4 @@ Rank (Worldwide): 5498
 Rank (India): 1802
 
 `#HashCodeSolved`
-# Made with ❤ by Param.
+# Made with ❤ by [Param](https://www.paramsid.com).
